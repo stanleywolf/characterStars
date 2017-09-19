@@ -1,4 +1,4 @@
 # characterStars
 C#BasicSyntax
-We resolve the conflict!!!
+We resolve the conflict!
 
