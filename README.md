@@ -1,3 +1,4 @@
 # characterStars
 C#BasicSyntax
-This is made a conflict!!!!!
+We resolve the conflict!!!
+
